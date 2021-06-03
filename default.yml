@@ -1,0 +1,7 @@
+--- 
+app_user: "usuario"
+disable_default: true
+http_conf: default-ssl.conf
+http_host: html
+http_port: "80"
+mysql_root_password: admin

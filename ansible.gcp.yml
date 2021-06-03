@@ -1,0 +1,6 @@
+plugin: gcp_compute
+projects:
+  - My First Project
+auth_kind: ansible-adrian@psychic-fold-309916.iam.gserviceaccount.com
+service__account_email: default
+service_account_file: /home/usuario/Descargas/psychic-fold-309916-7a988fb1c1b3.json

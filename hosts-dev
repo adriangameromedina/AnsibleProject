@@ -1,0 +1,5 @@
+[database]
+dtbs ansible_host=34.77.218.85
+
+[webserver]
+wbsrvr ansible_host=130.211.54.23
